@@ -1,0 +1,9 @@
+{
+  "name": "genpark-merkle-tree-state-proof-verifier-skill",
+  "version": "1.0.0",
+  "description": "Cryptographic Merkle tree constructor and inclusion proof generator/verifier with SHA-256 state leaves for immutable agent state attestation.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
